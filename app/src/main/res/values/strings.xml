@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="usd_label">USD</string>
+    <string name="usd">USD</string>
+</resources>
